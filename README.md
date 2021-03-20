@@ -45,6 +45,13 @@ npm run electron:serve
 npm run electron:build
 ```
 
+## 困难解决
+1、electron-builder打包报错
+自行下载electron-v9.3.4-win32-x64.zip 和 对应的 SHASUMS256.txt 文件到C:\Users\Administrator\AppData\Local\electron-builder\Cache
+在这里找：https://github.com/electron/electron/releases/v9.3.4
+
+
+
 下载 releases：https://github.com/xiajingren/xhznl-todo-list/releases
 
 ## 规划
